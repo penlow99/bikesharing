@@ -13,7 +13,7 @@ It was done using data from the New York City bike sharing service, Citi Bike.
 
 ## Results
 
-[Here is the link to the Tableau Story.]()
+[Here is the link to the Tableau Story.](https://public.tableau.com/profile/penlow#!/vizhome/BikeShareAnalysis_16081584978260/CitiBikeStory?publish=yes)
 
 ### Gender Breakdown
 ![image](images/1.png)
@@ -68,9 +68,9 @@ A chart depicting the number of bikes and the number of times they are used.
 
 ## Summary
 
-We can definitively conclude that males are more likely to use the bike share than females. Also, the early hours of the morning would be a favorable time to repair bikes. Unfortunately, no data was given for the city of Des Moines, so it is not possible to scale these results to see what the ridership would look like there.
+We can definitively conclude that males are more likely to use the bike share than females. Also, weekends tend to be a bit busier. Unfortunately, no data was given for the city of Des Moines, so it is not possible to scale these results to see what the ridership would look like there.
 
-### Future visualizations
+### Future analysis
 Two more visualizations that could be ascertained from the data we do have:
 1. Start/stop locations, by volume, for each gender and age group
 2. User type by age group
