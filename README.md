@@ -18,42 +18,42 @@ It was done using data from the New York City bike sharing service, Citi Bike.
 ### Gender Breakdown
 ![image](images/1.png)
 
-A pie chart showing the makeup of the riders.
+A pie chart showing the makeup of the riders, which are mostly male.
 
 ---
 
 ### Checkout Times by Users
 ![image](images/2.png)
 
-A line graph highlighting the highest and lowest volume for riders, by hour of the day.
+A line graph highlighting the ride duration for riders, by hours. It appears to peak around 5.
 
 ---
 
 ### Checkout Times by Gender
 ![image](images/3.png)
 
-A line graph showing rider volume for hours in the day, broken out into gender.
+A line graph showing ride duration in hours, broken out into gender. Males appear to ride longer.
 
 ---
 
 ### Trips by Weekday per Hour
 ![image](images/4.png)
 
-A heat map demonstrating the volume by day of the week and hour of the day.
+A heat map demonstrating the volume by day of the week and hour of the day. The evening hours have the most riders.
 
 ---
 
 ### Trips by Gender by Weekday per Hour
 ![image](images/5.png)
 
-A heat map demonstrating the volume by day of the week and hour of the day, broken out into gender.
+A heat map demonstrating the volume by day of the week and hour of the day, broken out into gender. Males ride mostly in the morning and evening.
 
 ---
 
 ### User Trips by Gender by Weekday
 ![image](images/6.png)
 
-A heat map showing what days of the week have the most volume for each gender category, broken out into groups of subscribers and single use riders.
+A heat map showing what days of the week have the most volume for each gender category, broken out into groups of subscribers and single use riders. Thursday is the busiest day for this chart.
 
 ---
 
@@ -61,14 +61,14 @@ A heat map showing what days of the week have the most volume for each gender ca
 ### Bike Repairs
 ![image](images/7.png)
 
-A chart depicting the number of bikes and the number of times they are used.
+A chart depicting the number of bikes and the number of times they are used, so as to better schedule repairs.
 
 ---
 
 
 ## Summary
 
-We can definitively conclude that males are more likely to use the bike share than females. Also, weekends tend to be a bit busier. Unfortunately, no data was given for the city of Des Moines, so it is not possible to scale these results to see what the ridership would look like there.
+We can definitively conclude that males are more likely to use the bike share than females. Also, morings and evenings tend to be a bit busier, usually at rush hours. Unfortunately, no data was given for the city of Des Moines, so it is not possible to scale these results to see what the ridership would look like there.
 
 ### Future analysis
 Two more visualizations that could be ascertained from the data we do have:
